@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sculpture_gallery2/static/css/main.4a97ab0f.css",
+    "main.js": "/Sculpture_gallery2/static/js/main.f0aa8684.js",
+    "index.html": "/Sculpture_gallery2/index.html",
+    "main.4a97ab0f.css.map": "/Sculpture_gallery2/static/css/main.4a97ab0f.css.map",
+    "main.f0aa8684.js.map": "/Sculpture_gallery2/static/js/main.f0aa8684.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a97ab0f.css",
+    "static/js/main.f0aa8684.js"
+  ]
+}
